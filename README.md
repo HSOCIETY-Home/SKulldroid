@@ -7,6 +7,16 @@ The information presented here is purely fictional and should not be taken as ad
 By accessing and using this repository, you agree that you will not engage in any unlawful activities and that the creators are not responsible for any consequences resulting from your actions.
 
 Remember, use your powers responsibly
+
+#FEATURES OF SKULLDROID --
+1. APK SIGN V1 AND V2
+2. APK ALIGN
+3. APK COMPILE & DECOMPILE
+4. APK DEX CONFUSION
+5. APK DEX ANTICONFUSION
+6. APK RES CONFUSION
+7. APK OBFUSCATION
+
 # SKulldroid -- python3 main.py
 
 ![Screenshot (3)](https://github.com/HSOCIETY-Home/SKulldroid/assets/117861893/5130c821-34ae-4733-b5a1-ab37e157d244)
