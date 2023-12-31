@@ -8,7 +8,7 @@ By accessing and using this repository, you agree that you will not engage in an
 
 Remember, use your powers responsibly
 
-#FEATURES OF SKULLDROID --
+# FEATURES OF SKULLDROID --
 1. APK SIGN V1 AND V2
 2. APK ALIGN
 3. APK COMPILE & DECOMPILE
