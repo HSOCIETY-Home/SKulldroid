@@ -1,4 +1,4 @@
-#THIS LOOL ONLY FOR LINUX 
+#THIS TOOL ONLY FOR LINUX 
 
 This repository and its contents are provided for educational and informational purposes only. The creator and contributors do not encourage, endorse, or support any illegal, unethical, or harmful activities.
 
